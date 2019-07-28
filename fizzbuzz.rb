@@ -8,6 +8,6 @@ def fizzbuzz(int)
     puts "Buzz"
   elsif int / 3 == 5 && int / 5 == 3
     puts "FizzBuzz"
-  else 
-    puts "nil"   
+  else
+    puts "nil"
 end
